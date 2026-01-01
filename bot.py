@@ -1,7 +1,7 @@
 import qrcode
 
 # The data you want to encode
-data = "https://share.google/LWV9RQXBkWTdYmzuY"
+data = "your-link-or-text-here"
 
 # Create the QR code object
 qr = qrcode.QRCode(
