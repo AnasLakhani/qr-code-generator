@@ -43,6 +43,8 @@ print("✅ QR Code saved successfully as my_qrcode.png")
 ### 3. Run the script
 
 ``` bash
+pip install
+
 python main.py
 ```
 
