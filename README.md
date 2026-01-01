@@ -81,4 +81,6 @@ This project is open source and available under the MIT License.
 
 ------------------------------------------------------------------------
 
-### Developed by Anas Lakhani
+### Developed by [Anas Lakhani](https://github.com/AnasLakhani)
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/anaslakhani)
